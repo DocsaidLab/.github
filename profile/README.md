@@ -21,7 +21,7 @@
 - **2024.03**
 
   - 某天發現 Google Drive 的檔案下載功能壞了，原本能透過 [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) 取得的資料變成「一團錯誤的 html」。👻 👻 👻
-  - 經過考慮，所以我決定用 [**NextCloud**](https://github.com/nextcloud) 開源架構建立私有雲，專門用於存放資料，並更新過去發布的下載連結。
+  - 經過考慮，我決定用一個開源架構：[**NextCloud**](https://github.com/nextcloud) 建立私有雲，專門用於存放資料，並更新過去發布的下載連結。
 
 - **2024.02**
 
