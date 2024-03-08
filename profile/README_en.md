@@ -51,9 +51,15 @@ I am an AI engineer living in Taiwan, and also the founder of this organization,
 
 ## In Conclusion 🍹
 
-In this era, we are fortunate to have Google, OpenAI, Meta, NVIDIA, and countless active open-source communities. From their open-source projects, we can glean a wealth of knowledge and learn cutting-edge technologies. By sharing open-source projects, I hope to pass on this joy and knowledge to many others, letting us advance together in this field.
+In this era, we're fortunate to have giants like Google, OpenAI, Meta, and NVIDIA, along with an active open-source community, driving the advancement of technology. Their contributions allow us to access cutting-edge knowledge and technologies, enriching our learning and development. However, as the global focus narrows on the development of large language models (LLMs), we may overlook numerous everyday problems awaiting solutions.
 
-If you like my projects, don't hesitate, just take them and use them.
+For instance, automating the analysis and processing of vast amounts of financial, legal, and medical documents is crucial for enhancing efficiency and aiding professionals in quickly and accurately locating key information. This is vital for improving the transparency and fairness of various services. Additionally, in combating text fabrication, AI technology plays a role in identifying and filtering fake news or fraudulent texts, protecting consumers from the impact of misinformation (a common pitfall of language models is spouting convincing nonsense).
+
+This is why I'm dedicating myself to the open-source community and sharing my projects. Through my efforts, I hope to inspire more people to think about and implement ways to use technology to solve the myriad of problems surrounding us. I believe that every small contribution is a part of our collective effort to create a better life for everyone.
+
+If you're interested in my projects or resonate with my views, please feel free to use and share them.
+
+Let's harness the power of technology together to solve real-world problems, improving everyone's lives in the process.
 
 *
 
