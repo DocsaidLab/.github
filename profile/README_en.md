@@ -1,4 +1,4 @@
-[English](./profile/README_en.md) | **[中文](./profile/README.md)**
+**[English](./profile/README_en.md)** | [中文](./profile/README.md)
 
 <div align="center">
   <img src="https://github.com/DocsaidLab/.github/blob/main/cover.png" width="1000"/>
@@ -18,8 +18,11 @@ I am an AI engineer living in Taiwan, and also the founder of this organization,
 
 - **March 2024**
 
-  - One day, I discovered that the file download feature on Google Drive was broken. What was supposed to be data retrieved through [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) turned into "a bunch of error html". 👻 👻 👻
-  - After some consideration, I decided to use the open-source framework [**NextCloud**](https://github.com/nextcloud) to build a private cloud for data storage and updated the previously released download links.
+  - 03.20
+    - Wanted to have a feature to summarize Gmail emails, so developed [**GmailSummary**](https://github.com/DocsaidLab/GmailSummary) and made it an open source project. 🎉 🎉 🎉
+  - 03.04
+    - Discovered that the file download feature of Google Drive was broken. The data that could originally be obtained through [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) turned into "a mess of erroneous html". 👻 👻 👻
+    - After consideration, I decided to use an open source framework: [**NextCloud**](https://github.com/nextcloud) to build a private cloud specifically for data storage, and updated the past published download links.
 
 - **February 2024**
 
@@ -57,7 +60,7 @@ I believe that every small contribution is a part of our collective effort to cr
 
 If you're interested in my projects or resonate with my views, please feel free to use and share them.
 
-*
+＊
 
 2024 Zephyr
 
