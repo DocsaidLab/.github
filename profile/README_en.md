@@ -18,39 +18,31 @@ I am an AI engineer living in Taiwan, and also the founder of this organization,
 
 - **March 2024**
 
-  - 03.20
-    - Wanted to have a feature to summarize Gmail emails, so developed [**GmailSummary**](https://github.com/DocsaidLab/GmailSummary) and made it an open source project. 🎉 🎉 🎉
-  - 03.04
-    - Discovered that the file download feature of Google Drive was broken. The data that could originally be obtained through [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) turned into "a mess of erroneous html". 👻 👻 👻
-    - After consideration, I decided to use an open source framework: [**NextCloud**](https://github.com/nextcloud) to build a private cloud specifically for data storage, and updated the past published download links.
+  - **GmailSummary**: Development completed and the project has been made open source. 🎉 🎉 🎉
+  - Discovered a malfunction in the file download feature of Google Drive. Data that was previously accessible through the [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) started returning "a bunch of erroneous html" (👻 👻 👻). After some consideration, I decided to use [**NextCloud**](https://github.com/nextcloud) to set up a private cloud for data storage and updated the previously released download links.
 
 - **February 2024**
 
-  - **TextDetector**: Began development by collecting public data.
-  - [**DocClassifier**](https://github.com/DocsaidLab/DocClassifier): Introduced CLIP to the model for knowledge distillation, which worked wonderfully!
+  - **DocClassifier**: Introduced CLIP into the model and performed knowledge distillation, which greatly improved its performance!
 
 - **January 2024**
 
-  - **TextDetector**: Initial project planning.
-  - [**DocClassifier**](https://github.com/DocsaidLab/DocClassifier): Development completed, turned into an open-source project. 🎉 🎉 🎉
+  - **DocClassifier**: Development completed and the project has been made open source. 🎉 🎉 🎉
 
 - **December 2023**
 
-  - [**DocClassifier**](https://github.com/DocsaidLab/DocClassifier): Started development.
-  - [**DocAligner**](https://github.com/DocsaidLab/DocAligner): Development completed, turned into an open-source project. 🎉 🎉 🎉
-  - [**blog**](https://github.com/DocsaidLab/blog): Discovered an interesting Facebook open-source project [**docusaurus**](https://github.com/facebook/docusaurus). It offers a simple way to create a static website that can be written in Markdown. So, I decided to use it for my blog: [docsaid.org](https://docsaid.org/).
+  - **DocAligner**: Development completed and the project has been made open source. 🎉 🎉 🎉
+  - **blog**: Discovered an interesting open-source project by Facebook called [**docusaurus**](https://github.com/facebook/docusaurus). It offers a simple way to create a static website, with content written in Markdown. Therefore, I decided to use it to create a blog: [**docsaid.org**](https://docsaid.org/).
 
 - **November 2023**
 
-  - [**DocClassifier**](https://github.com/DocsaidLab/DocClassifier): Initial project planning.
-  - [**DocAligner**](https://github.com/DocsaidLab/DocAligner): Started development.
-  - [**DocsaidKit**](https://github.com/DocsaidLab/DocsaidKit): Development completed, turned into an open-source project. 🎉 🎉 🎉
+  - **DocsaidKit**: Development completed and the project has been made open source. 🎉 🎉 🎉
+  - **DocGenerator**: Second phase of development completed.
 
 - **August 2023**
 
-  - [**DocAligner**](https://github.com/DocsaidLab/DocAligner): Initial project planning.
-  - [**DocsaidKit**](https://github.com/DocsaidLab/DocsaidKit): Started developing common tools.
-  - Created this organization's GitHub account and began planning some projects.
+  - **DocGenerator**: First phase of development completed.
+  - Created the organization's GitHub account and started planning several projects.
 
 ## In Conclusion 🍹
 
