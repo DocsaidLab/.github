@@ -5,10 +5,11 @@ Currently, I've completed several projects, including:
 1. [**DocsaidKit**](https://github.com/DocsaidLab/DocsaidKit): It contains some of the small tools I use regularly, acting as a toolbox.
 2. [**DocAligner**](https://github.com/DocsaidLab/DocAligner): This project provides document positioning functionality, mainly to locate the four corners of documents.
 3. [**DocClassifier**](https://github.com/DocsaidLab/DocClassifier): This project is for calculating document similarity, inspired by my friend. He finished the initial development and feasibility verification, then passed the idea to me. I completed the details and published it here.
+4. [**GmailSummary**](https://github.com/DocsaidLab/GmailSummary): This is a project that provides Gmail email summaries, integrating Gmail API and OpenAI API to summarize a large number of emails and push updates at a fixed time every day.
 
 There are also some other items still in planning:
 
-4. **DocsaidOCR**:
+5. **DocsaidOCR**:
 
     When it comes to OCR, one must mention the industry leader: [**PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR). Their model performance is very good, and their feature coverage is also very comprehensive. Usually, no matter what problem you encounter, just take a look at their offerings, and you might find a solution. However, there are often issues with the correct recognition of Traditional Chinese characters. Moreover, they have adopted the unique PaddlePaddle framework, which causes inconvenience for someone like me, a PyTorch user.
 
@@ -37,24 +38,15 @@ I also must admit my forgetfulness, so I try my best to record everything I do.
 
 Based on my philosophy, the basic structure to build a project should look like this:
 
-  - Introduction
-  - Table of Contents
-  - Quick Start (Model inference API)
-  - Evaluate Model (Benchmark)
-  - Train Model
-  - Dataset Introduction
-  - Dataset Preprocessing
-  - Dataset Implementation
-  - Build Training Environment
-  - Execute Training (Based on Docker)
-  - Convert Model to ONNX Format (Based on Docker)
-  - Submit Dataset
-  - FAQs
-  - References
+  - How to build the model?
+  - Is it well-built?
+  - How to use the model?
 
 This structure helps us better understand and discuss a project, as well as improve its use and development.
 
-For example, to reproduce an experimental result, we must consider the working environment to ensure our discussions are based on the same foundation. That's why I introduced Docker training modules as a solution. If you're not familiar with container technology, seeing my training code might be confusing:
+For example, to reproduce an experimental result, we must consider the working environment to ensure our discussions are based on the same foundation. That's why I introduced Docker training modules as a solution.
+
+If you're not familiar with container technology, seeing my training code might be confusing:
 
 <div align="center">
 
