@@ -18,6 +18,7 @@ I am an AI engineer living in Taiwan, and also the founder of this organization,
 
 - **March 2024**
 
+  - Completed the [**technical documentation**](https://docsaid.org/category/docsaidkit) for **DocsaidKit**.
   - **GmailSummary**: Development completed and the project has been made open source. 🎉 🎉 🎉
   - Discovered a malfunction in the file download feature of Google Drive. Data that was previously accessible through the [`gen_download_cmd`](https://github.com/DocsaidLab/DocsaidKit/blob/f281acd3f7f688fa7a71b70d92c6d3ef0ea2f5ca/docsaidkit/utils/utils.py#L66) started returning "a bunch of erroneous html" (👻 👻 👻). After some consideration, I decided to use [**NextCloud**](https://github.com/nextcloud) to set up a private cloud for data storage and updated the previously released download links.
 
