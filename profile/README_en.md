@@ -8,13 +8,13 @@
 
 Welcome to DOCSAID's GitHub homepage.
 
-I am an AI engineer living in Taiwan, and also the founder of this organization, Zephyr.
-
-- [About Me](./about-me.md)
-- [What's Here?](./whats-here.md)
-- [How to Tune the Model?](./how-to-tune-the-model.md)
+For the technical documentation of each project, please visit [**docsaid.org**](https://docsaid.org/).
 
 ## What's New? 🚀
+
+- **April 2024**
+
+  - Completed the [**technical documentation**](https://docsaid.org/category/docaligner) for **DocAligner**.
 
 - **March 2024**
 
@@ -44,22 +44,3 @@ I am an AI engineer living in Taiwan, and also the founder of this organization,
 
   - **DocGenerator**: First phase of development completed.
   - Created the organization's GitHub account and started planning several projects.
-
-## In Conclusion 🍹
-
-In this era, we're fortunate to have giants like Google, OpenAI, Meta, and NVIDIA, along with an active open-source community, driving the advancement of technology. Their contributions allow us to access cutting-edge knowledge and technologies, enriching our learning and development. However, as the global focus narrows on the development of large language models (LLMs), we may overlook numerous everyday problems awaiting solutions.
-
-I believe that every small contribution is a part of our collective effort to create a better life for everyone.
-
-If you're interested in my projects or resonate with my views, please feel free to use and share them.
-
-＊
-
-2024 Zephyr
-
-
-
-
-
-
-
